@@ -1,7 +1,7 @@
-# Programa Desenvolve 2024 em parceria com Alura
+# Programa Desenvolve 2024 do Grupo Boticário em parceria com Alura
 
 ## Desafios Excel
-- Projetos relacionados aos desafios passados pelo professor dos cursos de Excel da Alura, na trilha de Dados do Program Desenvolve
+- Projetos relacionados aos desafios passados pelo professor dos cursos de Excel da Alura, na trilha de Dados do Programa Desenvolve 2024
 
 ### Objetivos:
 1. Desafio Curso 1 - Fazer cálculo de porcentagem, a partir de tabela com formatação.
